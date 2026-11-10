@@ -1,0 +1,301 @@
+AID,assay_name,target,keep
+1433,Kinase Inhibitor Selectivity Profiling Assay,,False
+1622,RNAi Global Initiative pilot viability screen of human kinase and cell cycle genes,,False
+1904,siRNA Circadian Assay,,False
+1982,Kinase inhibition selectivity assay for compound SID-48409448,"Rho-associated, coiled-coil containing protein kinase 2 [Homo sapiens]",False
+3366,Inhibition of ligand induced proliferation in human Her-2 (p185erbB) tyrosine kinase expressing 3T3 cells,Receptor tyrosine-protein kinase erbB-2,True
+3367,Inhibition of ligand-induced proliferation in human Her-2 (p185erbB) tyrosine kinase expressing 3T3 cells (Not tested),Receptor tyrosine-protein kinase erbB-2,True
+40020,Inhibition of erbB2 overexpressing BT474 (breast carcinoma) cell line proliferation,Receptor tyrosine-protein kinase erbB-2,True
+40021,Inhibition of erbB-2 overexpressing BT474 (Breast) tumor cell proliferation,Receptor tyrosine-protein kinase erbB-2,True
+42142,Inhibition of erbB2 overexpressing BT 474 cell proliferation,Receptor tyrosine-protein kinase erbB-2,True
+51584,Inhibition of ligand-stimulated autophosphorylation of EGFR/HER2 chimeric receptor expressed in NIH3T3 cells,Epidermal growth factor receptor,False
+68095,In vitro inhibition of ERBB2 receptor kinase autophosphorylation.,Receptor tyrosine-protein kinase erbB-2,True
+68096,Inhibition of heregulin-stimulated autophosphorylation of ERBB2 receptor kinase in MDA-MB-453 cells.,Receptor tyrosine-protein kinase erbB-2,True
+68097,Inhibition of heregulin-stimulated autophosphorylation of erbB2 in MDA-MB-453 cells.,Receptor tyrosine-protein kinase erbB-2,True
+68098,Inhibition of autophosphorylation of ERBB2 receptor kinase in MDA-MB 453 cells,Receptor tyrosine-protein kinase erbB-2,True
+68099,Inhibition of human erbB-2 receptor tyrosine kinase,Receptor tyrosine-protein kinase erbB-2,True
+68100,Inhibition of ErbB-2,Receptor tyrosine-protein kinase erbB-2,True
+68101,Inhibition of ERBB2 receptor kinase,Receptor tyrosine-protein kinase erbB-2,True
+68102,Inhibition of ERBB2 receptor kinase,Receptor tyrosine-protein kinase erbB-2,True
+68103,Inhibition of ERBB2 receptor autophosphorylation,Receptor tyrosine-protein kinase erbB-2,True
+68104,Inhibition of ERBB2 receptor kinase (No effect),Receptor tyrosine-protein kinase erbB-2,True
+68105,Inhibition of ERBB2 receptor kinase at ATP concentration <Km,Receptor tyrosine-protein kinase erbB-2,True
+68106,Inhibitory activity against ERBB2 receptor kinase,Receptor tyrosine-protein kinase erbB-2,True
+69712,Inhibition of heregulin-stimulated autophosphorylation of erbB2 in MDA-MB 453 cells,Receptor tyrosine-protein kinase erbB-2,True
+69713,Inhibition of heregulin-stimulated autophosphorylation of erbB2 in MDA-MB 453 cells,Receptor tyrosine-protein kinase erbB-2,True
+69714,Inhibition of human epidermal growth factor receptor (HER-2) using enzyme assay,Receptor tyrosine-protein kinase erbB-2,True
+69715,Dissociation constant for peptide inhibitor binding to HER2 receptor,Receptor tyrosine-protein kinase erbB-2,True
+69716,Kinetic constant for peptide inhibitor binding to HER2 receptor,Receptor tyrosine-protein kinase erbB-2,True
+69717,Kinetic constant for peptide inhibitor binding to HER2 receptor,Receptor tyrosine-protein kinase erbB-2,True
+69874,Concentration needed to inhibit the autophosphorylation of the cytoplasmic domain of Epidermal growth factor receptor using DELFIA/time-resolved fluorimetry.,Epidermal growth factor receptor,False
+70241,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+79614,Inhibition of c-erbB-2 overexpressing HB4a cell proliferation,Receptor tyrosine-protein kinase erbB-2,True
+79615,Inhibition of c-erbB-2 overexpressing HB4a cell proliferation (Not tested),Receptor tyrosine-protein kinase erbB-2,True
+79617,Inhibition of erbB2 overexpressing HB4a.e5.2 cell proliferation,Receptor tyrosine-protein kinase erbB-2,True
+81560,Inhibitory concentration against ErbB2/neu (HER-2) by autophosphorylation,Epidermal growth factor receptor,False
+81561,Inhibition of ErbB2/neu (HER-2) autophosphorylation (Not determined),Epidermal growth factor receptor,False
+81567,Inhibition of human HER-2,Epidermal growth factor receptor,False
+81574,Concentration required to achieve 50% inhibition of tyrosine phosphorylation on human Her-2 receptor tyrosine kinase (HER-2 RTK),Receptor tyrosine-protein kinase erbB-2,True
+81575,Ratio of HER-2 inhibition by diastereomers,Receptor tyrosine-protein kinase erbB-2,True
+81579,"Inhibition of HER2, Erb-B2 receptor",Receptor tyrosine-protein kinase erbB-2,True
+81580,Inhibition of autophosphorylation of human Her (p185erbB) tyrosine kinase expressed in SKOV-3 cells,Receptor tyrosine-protein kinase erbB-2,True
+81581,Inhibition of autophosphorylation of human Her (p185erbB) tyrosine kinase expressed in SKOV-3 cells,Receptor tyrosine-protein kinase erbB-2,True
+81582,Inhibition of autophosphorylation of human Her (p185erbB) tyrosine kinase expressed in SKOV-3 cells (Not tested),Receptor tyrosine-protein kinase erbB-2,True
+81583,Selectivity against HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+81584,Inhibition of HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+81723,Inhibition of HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+81724,Selectivity against HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+87018,"Inhibition of Her2, ErbB2 receptor tyrosine kinase at 10 uM",Receptor tyrosine-protein kinase erbB-2,True
+91107,Inhibition of human epidermal growth factor receptor-2 autophosphorylation,Receptor tyrosine-protein kinase erbB-2,True
+91108,Inhibition of human epidermal growth factor receptor-2,Receptor tyrosine-protein kinase erbB-2,True
+92132,In vitro efficacy (average) against HN5 (EGFR) and BT474 (erbB2) tumor cell proliferation,Epidermal growth factor receptor,False
+105058,Inhibition of heregulin-dependent autophosphorylation of ErbB2 receptor in MDA-MB-453 cells,Receptor tyrosine-protein kinase erbB-2,True
+144357,Inhibition of erbB-2 overexpressing N87 (Gastric) tumor cell proliferation,Receptor tyrosine-protein kinase erbB-2,True
+164334,Concentration required to inhibit autophosphorylation of cytoplasmic domain of human epidermal growth factor receptor-2,Receptor tyrosine-protein kinase erbB-2,True
+164335,Inhibitory activity tested against protein kinase HER-2,Receptor tyrosine-protein kinase erbB-2,True
+164336,Inhibition of autophosphorylation of HER-2 expressed in NIH3T3 cell lines,Receptor tyrosine-protein kinase erbB-2,True
+164337,Inhibition of autophosphorylation of HER-2 expressed in NIH3T3 cells (Not determined),Receptor tyrosine-protein kinase erbB-2,True
+164338,Inhibition of protein kinase HER-2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+164339,Inhibition of HER-2 ErbB2 receptor,Receptor tyrosine-protein kinase erbB-2,True
+164340,Inhibition of Protein kinase HER-2,Receptor tyrosine-protein kinase erbB-2,True
+215071,Inhibition of EGFR and erbB2 overexpressing tumor cell proliferation,Epidermal growth factor receptor,False
+218938,Inhibition of erbB2 receptor,Receptor tyrosine-protein kinase erbB-2,True
+219060,Inhibition of erbB2 receptor (Not determined),Receptor tyrosine-protein kinase erbB-2,True
+219061,Inhibition of neu (erb-B2) HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+226205,Inhibition of autophosphorylation of human Her (p185erbB) tyrosine kinase expressed in SKOV-3 cells,Receptor tyrosine-protein kinase erbB-2,True
+226585,Inhibition of EGFR and ErbB-2 average ratio,Epidermal growth factor receptor,False
+227709,Selective inhibition of EGFR/erbB2 tumor cell proliferation over normal HFF cells,Epidermal growth factor receptor,False
+235147,Selectivity for EGF receptor and erbB2,Epidermal growth factor receptor,False
+235148,Selectivity for EGF receptor and c-erbB-2,Epidermal growth factor receptor,False
+235920,Inhibition of HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+240497,Inhibition against human HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+240554,Inhibitory activity against HER2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+240635,In vitro inhibitory concentration against HER2,Receptor tyrosine-protein kinase erbB-2,True
+240906,Inhibition of HER2 kinase in intact CSH12 cells,Receptor tyrosine-protein kinase erbB-2,True
+241491,Inhibition of HER2 kinase in intact CSH12 cells; Range = 25-50 nM,Receptor tyrosine-protein kinase erbB-2,True
+242383,Inhibitory concentration against ErbB-2 protein tyrosine kinase by using [gamma-33P]-ATP as radioligand in pH 7.5,Receptor tyrosine-protein kinase erbB-2,True
+244158,Selectivity for ERBB2 receptor kinase by scintillation proximity assay,Receptor tyrosine-protein kinase erbB-2,True
+244178,Selectivity for ERBB2 receptor kinase by scintillation proximity assay; No data,Receptor tyrosine-protein kinase erbB-2,True
+248902,Inhibition of EGF-stimulated human umbilical vein endothelial cell proliferation,Epidermal growth factor receptor,False
+248914,Inhibition of human epidermal growth factor receptor-2 (HER-2) autophosphorylation,Receptor tyrosine-protein kinase erbB-2,True
+248969,Inhibition of EGF-stimulated human umbilical vein endothelial cell proliferation; ND= not determined,Epidermal growth factor receptor,False
+254695,Inhibitory concentration against HER2 (ErbB2),Receptor tyrosine-protein kinase erbB-2,True
+254834,nhibitory concentrations against ErbB-2,Receptor tyrosine-protein kinase erbB-2,True
+254920,In vitro inhibitory concentration against HER2 with ATP concentration at 1/2Km,Receptor tyrosine-protein kinase erbB-2,True
+254948,Inhibitory concentration against erbB2 kinase phosphorylation using synthetic peptide as a substrate,Receptor tyrosine-protein kinase erbB-2,True
+254975,In vitro inhibitory concentration against HER2 cytoplasmic sequence expressed in Sf9 cells,Receptor tyrosine-protein kinase erbB-2,True
+255842,Inhibitory concentration against BT474 (breast carcinoma) cells expressing HER2,Receptor tyrosine-protein kinase erbB-2,True
+255868,Inhibitory concentration against Sal2 (salivary gland carcinoma) cell line expressing active HER2,Receptor tyrosine-protein kinase erbB-2,True
+255958,Inhibitory concentration against erbB2 autophosphorylation in MCF-7 breast carcinoma cell line,Receptor tyrosine-protein kinase erbB-2,True
+256709,Inhibitory activity against HER2,Receptor tyrosine-protein kinase erbB-2,True
+258045,Inhibition of HER2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+258046,Inhibitory activity against HER2,Receptor tyrosine-protein kinase erbB-2,True
+259431,Inhibitory activity against HER2,Receptor tyrosine-protein kinase erbB-2,True
+260443,Inhibition of human ERBB2 expressed in Sf9 cells at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+260444,Inhibition of human ERBB2 expressed in Sf9 cells at 100 uM,Receptor tyrosine-protein kinase erbB-2,True
+260896,Inhibition of erbB2 fusion protein expressed in baculovirus by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+260899,Inhibition of HER stimulated human erbB autophosphorylation in MDA-MB-453 cells,Receptor tyrosine-protein kinase erbB-2,True
+260903,Inhibition of ligand stimulated erbB2 autophosphorylation in T24 NIH cells,Receptor tyrosine-protein kinase erbB-2,True
+262079,Protective index against ErbB2 at 10 uM by HTRF method,Receptor tyrosine-protein kinase erbB-2,True
+263614,Inhibition of ErbB2 at 10 uM in presence of 0.1 uM ATP,Receptor tyrosine-protein kinase erbB-2,True
+263981,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+266066,Inhibition of serum-stimulated proliferation of mouse ERBB2 transfected NIH3T3 cell line after 24 hrs,Receptor tyrosine-protein kinase erbB-2,True
+266093,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+266924,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+267202,Inhibition of Her2,Receptor tyrosine-protein kinase erbB-2,True
+270616,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+271972,Inhibition of Her2,Receptor tyrosine-protein kinase erbB-2,True
+273804,Inhibition of human ERbB2,Receptor tyrosine-protein kinase erbB-2,True
+276915,Inhibition of ErB2,Receptor tyrosine-protein kinase erbB-2,True
+281191,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+282237,Inhibition of Her2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+283010,Inhibition of human ErbB2 tyrosine kinase phosphorylation expressed in mouse BaF3 cells,Receptor tyrosine-protein kinase erbB-2,True
+290549,Inhibition of erbB2 expressed in Sf9 cells,Receptor tyrosine-protein kinase erbB-2,True
+290550,Inhibition of erbB2 in NH3T3 cells,Receptor tyrosine-protein kinase erbB-2,True
+290551,Selectivity for erbB2 over EGFR,Epidermal growth factor receptor,False
+295195,Inhibition of human HER2,Receptor tyrosine-protein kinase erbB-2,True
+298750,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+299191,Inhibition of ErbB2/Her2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+304938,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+305799,Inhibition of HER2 tyrosine kinase phosphorylation in human MDA-MB-453 cells by Western blot assay,Receptor tyrosine-protein kinase erbB-2,True
+306289,Inhibition of human recombinant cytoplasmic HER2 kinase expressed in Sf9 cells,Receptor tyrosine-protein kinase erbB-2,True
+306294,Inhibition of HER2 phosphorylation in human N87 cells,Receptor tyrosine-protein kinase erbB-2,True
+307492,Inhibition of ERBB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+308241,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+308515,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+308828,Inhibition of human recombinant HER2 expressed in insect Sf9 cells,Receptor tyrosine-protein kinase erbB-2,True
+309857,Inhibition of ErbB2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+309859,Inhibition of Erb2 autophosphorylation by cellular clone 24 assay,Receptor tyrosine-protein kinase erbB-2,True
+310411,Inhibition of ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+313403,Inhibition of HER2 at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+314705,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+314962,Inhibition of human erbB2 autophosphorylation in MCF7 cells,Receptor tyrosine-protein kinase erbB-2,True
+314965,Inhibition of erbB2,Receptor tyrosine-protein kinase erbB-2,True
+315244,Inhibition of ebrB2 expressed in human MCF7 cells by autophosphorylation assay,Receptor tyrosine-protein kinase erbB-2,True
+315250,Inhibition of ebrB2,Receptor tyrosine-protein kinase erbB-2,True
+320572,Inhibition of erbB2,Receptor tyrosine-protein kinase erbB-2,True
+320574,Inhibition of erB2 autophosphorylation in clone 24 cells,Receptor tyrosine-protein kinase erbB-2,True
+325576,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+325824,Inhibition of Her1,Receptor tyrosine-protein kinase erbB-2,True
+328043,Inhibition of Her2 expressed in CSH12 cells by Western blot analysis,Receptor tyrosine-protein kinase erbB-2,True
+331423,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+331436,Inhibition of ErbB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+331537,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+341698,Inhibition of ErbB2 by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+341708,Inhibition of ErbB2 at 10 uM by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+341717,Inhibition of ErbB2 phosphorylation in human SKOV3 cells assessed as inhibition of EGF-induced ERK1/2 activation by Western blot,Receptor tyrosine-protein kinase erbB-2,True
+341718,Inhibition of ErbB2 phosphorylation in human SK-OV-3 cells assessed as inhibition of EGF-induced AKT activation by Western blot,Receptor tyrosine-protein kinase erbB-2,True
+341719,Inhibition of ErbB2 phosphorylation in human SK-OV-3 cells assessed as inhibition of EGF-induced STAT3 activation by Western blot,Receptor tyrosine-protein kinase erbB-2,True
+341721,Inhibition of ErbB2 autophosphorylation in human SK-OV-3 cells by Western blot,Receptor tyrosine-protein kinase erbB-2,True
+344457,Inhibition of ErbB2 kinase,Receptor tyrosine-protein kinase erbB-2,True
+347287,Inhibition of ERBB2 at 1 uM relative to control,Receptor tyrosine-protein kinase erbB-2,True
+349121,Inhibition of ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+350695,Inhibition of HER2 at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+358468,Inhibition of ERBB2 at 5 uM,Receptor tyrosine-protein kinase erbB-2,True
+361654,Inhibition of human ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+361656,Inhibition of human ErB2 phosphorylation in human SKBR3 cells,Receptor tyrosine-protein kinase erbB-2,True
+364803,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+365240,Inhibition of GST-tagged HER2,Receptor tyrosine-protein kinase erbB-2,True
+367174,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+367181,Inhibition of ErbB2 intracellular autophosphorylation of ErbB2 in human BT474 cells by DELFIA assay,Receptor tyrosine-protein kinase erbB-2,True
+371171,Inhibition of human HER2 tyrosine kinase activity at 100 nM,Receptor tyrosine-protein kinase erbB-2,True
+371184,Inhibition of human HER2 tyrosine kinase activity,Receptor tyrosine-protein kinase erbB-2,True
+371616,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+383063,Inhibition of Erbb2,Receptor tyrosine-protein kinase erbB-2,True
+383072,Inhibition of human Her2,Receptor tyrosine-protein kinase erbB-2,True
+383073,Inhibition of human Her2 in SKBR3 cells,Receptor tyrosine-protein kinase erbB-2,True
+383074,Inhibition of human Her2 in BT474 cells,Receptor tyrosine-protein kinase erbB-2,True
+383075,Inhibition of human Her2 in A431 cells,Receptor tyrosine-protein kinase erbB-2,True
+383076,Inhibition of human Her2 in SW620 cells,Receptor tyrosine-protein kinase erbB-2,True
+388111,"Inhibition of EGFR L747-S752del,P753S mutant at 3 uM",Receptor tyrosine-protein kinase erbB-4,False
+388112,"Inhibition of EGFR L747-T751del,Sins mutant at 3 uM",Receptor tyrosine-protein kinase erbB-4,False
+388115,Inhibition of EGFR S752-I759del mutant at 3 uM,Receptor tyrosine-protein kinase erbB-4,False
+390483,Inhibition of ERBB2 at 3 uM,Receptor tyrosine-protein kinase erbB-2,True
+390491,Inhibition of EGFR E746-A750del mutant at 3 uM,Receptor tyrosine-protein kinase erbB-4,False
+390494,"Inhibition of EGFR L747-E749del,A750P mutant at 3 uM",Receptor tyrosine-protein kinase erbB-4,False
+392130,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+392552,Inhibition of ErbB2 at 10 uM by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+393230,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+395891,Inhibition of Her2 in human SKBR3 cells,Receptor tyrosine-protein kinase erbB-2,True
+397044,Inhibition of human HER2,Receptor tyrosine-protein kinase erbB-2,True
+401056,Inhibition of c-erbB-2,Receptor tyrosine-protein kinase erbB-2,True
+404519,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+405906,Inhibition of recombinant ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+406970,Inhibition of human recombinant ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+409438,Inhibition of human ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+410050,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+410944,Inhibition of ERBb2 by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+410949,Inhibition of ERBb2 by DELFIA assay,Receptor tyrosine-protein kinase erbB-2,True
+410952,Inhibition of ERBb2 by scintillation proximity assay,Receptor tyrosine-protein kinase erbB-2,True
+417897,Inhibition of ErbB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+418567,Inhibition of ErbB2 by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+418568,Inhibition of ErbB2 by SPA assay,Receptor tyrosine-protein kinase erbB-2,True
+418589,Inhibition of ErbB2 by virtual HTS assay,Receptor tyrosine-protein kinase erbB-2,True
+418919,Inhibition of ErbB2 by time resolved fluorescence assay,Receptor tyrosine-protein kinase erbB-2,True
+418922,Inhibition of ErbB2 phosphorylation in IGF1 and EGF-stimulated human N87 cells pretreated for 6 hrs before IGF1 and EGF stimulation by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+423604,Inhibition of recombinant ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+430636,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+435512,Percent residual Her-2 activity in the presence of 10uM inhibitor,Receptor tyrosine-protein kinase erbB-2,True
+435796,Binding constant for ERBB2 kinase domain,Receptor tyrosine-protein kinase erbB-2,True
+436057,Selectivity for ERBB2 as proportion of 290 kinases in screen with similar potency; non-selective = 1 highly selective = 0,Receptor tyrosine-protein kinase erbB-2,True
+437900,Binding affinity to ERBB2 assessed as percentage of kinase remaining bound to the bead at 1 uM by T7 phage display based binding assay,Receptor tyrosine-protein kinase erbB-2,True
+439276,Inhibition of EGFR E746-A750del mutant assessed as enzyme activity at 1 uM relative to untreated control,Receptor tyrosine-protein kinase erbB-4,False
+439281,"Inhibition of EGFR L747-T751del,Sins mutant assessed as enzyme activity at 1 uM relative to untreated control",Receptor tyrosine-protein kinase erbB-4,False
+439284,Inhibition of EGFR S752-I759del mutant assessed as enzyme activity at 1 uM relative to untreated control,Receptor tyrosine-protein kinase erbB-4,False
+439473,Inhibition of ERBB2 assessed as enzyme activity at 1 uM relative to untreated control,Receptor tyrosine-protein kinase erbB-2,True
+439897,Inhibition of human recombinant HER2 expressed in Sf9 cells by liquid scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+440202,Inhibition of HER1/HER2 phosphorylation in human N87 cells by Western blot,Epidermal growth factor receptor,False
+440203,Inhibition of HER1/HER2-mediated AKT phosphorylation in human GEO cells by Western blot,Epidermal growth factor receptor,False
+440204,Inhibition of HER1/HER2-mediated MAPK phosphorylation in human GEO cells by Western blot,Epidermal growth factor receptor,False
+440618,Inhibition of N-terminal peptide-tagged ERBB2 cytoplasmic domain by [gamma-33-P]ATP based assay,Receptor tyrosine-protein kinase erbB-2,True
+441964,Inhibition of Her2 by fluorescence polarization assay,Receptor tyrosine-protein kinase erbB-2,True
+444992,Inhibition of human ERBB2 at 20 uM by FRET assay,Receptor tyrosine-protein kinase erbB-2,True
+445189,Inhibition of human recombinant HER2,Receptor tyrosine-protein kinase erbB-2,True
+447375,Inhibition of HER-2,Receptor tyrosine-protein kinase erbB-2,True
+450369,Residual activity of ERBB2 at 0.1 uM by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+450767,Residual activity of ERBB2 at 10 uM by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+451019,Residual activity of ERBB2 at 1 uM by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+451417,Binding affinity to human ERBB2 at 200 nM by cell-based competition binding assay relative to control in presence of DTT,Receptor tyrosine-protein kinase erbB-2,True
+451507,Binding affinity to human ERBB2 at 50 nM by cell-based competition binding assay relative to control in presence of DTT,Receptor tyrosine-protein kinase erbB-2,True
+451597,Binding affinity to human ERBB2 at 500 nM by cell-based competition binding assay relative to control in presence of DTT,Receptor tyrosine-protein kinase erbB-2,True
+453331,Inhibition of ERBB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+454329,Inhibition of ERBB2 by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+455910,Inhibition of ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+456091,Inhibition of human cloned HER2 autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,Receptor tyrosine-protein kinase erbB-2,True
+456100,Inhibition of human cloned HER2 autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,Receptor tyrosine-protein kinase erbB-2,True
+457037,Inhibition of ERBB2 autophosphorylation in human NCI-H1975 cells by Western blot,Receptor tyrosine-protein kinase erbB-2,True
+458722,Inhibition of ERBB2 after 80 mins by radiometric protein kinase assay,Receptor tyrosine-protein kinase erbB-2,True
+460690,Inhibition of human recombinant HER2 expressed in Sf9-baculovirus system by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+461252,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+463639,Inhibition of erbB2,Receptor tyrosine-protein kinase erbB-2,True
+467375,Inhibition of ERBB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+469697,Inhibition of HER2 at 5 uM,Receptor tyrosine-protein kinase erbB-2,True
+470892,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+472048,Inhibition of HER2 in human SKBR3 cells by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+472049,Inhibition of HER2 by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+474114,Inhibition of ErbB2 by time resolved fluorescence assay,Receptor tyrosine-protein kinase erbB-2,True
+474117,Inhibition of ErbB2 intracellular phosphorylation in human N87 cells by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+484565,Inhibition of Her2,Receptor tyrosine-protein kinase erbB-2,True
+485510,Inhibition of EGFR E746-A750del mutant at 1 uM,Receptor tyrosine-protein kinase erbB-4,False
+485513,"Inhibition of EGFR L747-E749del, A750P mutant at 1 uM",Receptor tyrosine-protein kinase erbB-4,False
+485514,"Inhibition of EGFR L747-S752del, P753S mutant at 1 uM",Receptor tyrosine-protein kinase erbB-4,False
+485515,"Inhibition of EGFR L747-T751del, Sins mutant at 1 uM",Receptor tyrosine-protein kinase erbB-4,False
+485602,Inhibition of EGFR S752-I759del mutant at 1 uM,Receptor tyrosine-protein kinase erbB-4,False
+485616,Inhibition of ERBB2 at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+486358,Inhibition of ERBB2 assessed as residual activity at 10 uM after 80 mins by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+486359,Inhibition of ERBB2 assessed as residual activity at 1 uM after 80 mins by microplate scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+488716,Inhibition of HER2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+488718,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+490683,Inhibition of EGFR E746-A750del mutant at 10 uM,Receptor tyrosine-protein kinase erbB-4,False
+490688,"Inhibition of EGFR L747-T751del, Sins mutant at 10 uM",Receptor tyrosine-protein kinase erbB-4,False
+490692,Inhibition of EGFR S752-I759del mutant at 10 uM,Receptor tyrosine-protein kinase erbB-4,False
+490708,Inhibition of ERBB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+491924,Inhibition ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+491925,Inhibition ErbB2 at 10 uM,Receptor tyrosine-protein kinase erbB-2,True
+492321,Inhibition of human recombinant His6x-tagged HER2 autophosphorylation expressed in Sf9 cells after 1 hr by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+493040,Navigating the Kinome,,False
+500006,Inhibition of ERBB2 at 1 uM by radiometric method,Receptor tyrosine-protein kinase erbB-2,True
+503767,Inhibition of EGFR-1,Receptor tyrosine-protein kinase erbB-4,False
+507198,Inhibition of human HER2,Receptor tyrosine-protein kinase erbB-2,True
+507532,Inhibition of HER2 at 1 uM after 60 mins by FRET assay in presence of 10 uM ATP,Receptor tyrosine-protein kinase erbB-2,True
+507754,Binding affinity to ErbB-2,Receptor tyrosine-protein kinase erbB-2,True
+507932,Binding affinity to ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+511825,Inhibition of ErbB2 by immunoprecipitation assay,Receptor tyrosine-protein kinase erbB-2,True
+512414,Inhibition of HER-2 activity at 10 uM by radiometric assay,Receptor tyrosine-protein kinase erbB-2,True
+514046,Inhibition of ERBB2 at 1 uM in presence of 10 uM ATP by Select Screen kinase assay relative to untreated control,Receptor tyrosine-protein kinase erbB-2,True
+515895,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+517320,Inhibition of EGFR L858 mutant,Receptor tyrosine-protein kinase erbB-4,False
+517324,Inhibition of ERBb2 phosphorylation in human BT474 cells by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+517501,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+526050,Inhibition of EGFR1,Receptor tyrosine-protein kinase erbB-4,False
+537798,Inhibition of ERBB2 at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+546552,Inhibition of HER2 by flash plate based radioactive enzyme assay,Receptor tyrosine-protein kinase erbB-2,True
+549932,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+553107,Inhibition of HER2 by TR-FRET based LanthaScreen assay,Receptor tyrosine-protein kinase erbB-2,True
+580189,Inhibition of HER2 by homogeneous time-resolved fluorescence assay,Receptor tyrosine-protein kinase erbB-2,True
+588725,Late stage counterscreen results from the probe development effort to identify inhibitors of kruppel-like factor 5 (KLF5): Radioactivity-based biochemical assay to identify modulators of a panel of 48 kinases,,False
+588781,Protein Tyrosine Kinases siRNA Cell Polarization/Mechanosensitivity Screening Assay,,False
+592966,Inhibition of ErbB2,Receptor tyrosine-protein kinase erbB-2,True
+597116,Inhibition of EGFR1 assessed as [33P]gamma-ATP incorporation into substrate after 60 mins by gamma counting,Receptor tyrosine-protein kinase erbB-4,False
+598165,Inhibition of EGFR S752-I759 deletion mutant at 1 uM by Ambit competition binding assay,Receptor tyrosine-protein kinase erbB-4,False
+598840,Inhibition of HER2 assessed as biotin-HEQEDEPEGDYFEWLEPE peptide phosphorylation by TR-FRET assay,Receptor tyrosine-protein kinase erbB-2,True
+601845,Inhibition of EGFR2 using poly(Glu-Tyr)4:1 as substrate after 60 mins by ELISA,Receptor tyrosine-protein kinase erbB-2,True
+603819,Inhibition of ERBB2 at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+608488,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
+612123,Inhibition of ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+613155,Inhibition of ErbB2 expressed in Escherichia coli or baculovirus-infected insect cells at 400 uM by TR-FRET assay,Receptor tyrosine-protein kinase erbB-2,True
+615008,Activity of ERBB2 kinase at 1 uM,Receptor tyrosine-protein kinase erbB-2,True
+616950,Inhibition of HER2 activity by TR-FRET assay,Receptor tyrosine-protein kinase erbB-2,True
+620240,Inhibition of human recombinant (His)6-tagged HER-2 autophosphorylation pre-incubated for 10 mins by DELFIA/Time-resolved fluorimetry,Receptor tyrosine-protein kinase erbB-2,True
+620242,Inhibition of HER-2,Receptor tyrosine-protein kinase erbB-2,True
+623493,Inhibition of recombinant ERBB2,Receptor tyrosine-protein kinase erbB-2,True
+624099,An siRNA screen for human genes that are involved in human papilloma virus (HPV) E2 transcriptional repression of the E6 and E7 oncogenes,,False
+624804,Binding constant for ERBB2 kinase domain,Receptor tyrosine-protein kinase erbB-2,True
+629932,Inhibition of HER2 relative to control,Receptor tyrosine-protein kinase erbB-2,True
+632226,Inhibition of human N-terminus peptide (DYKDDDD)-tagged HER2 expressed in baculovirus infected insect cells using [gamma-32P]ATP as substrate after 60 mins by scintillation counting,Receptor tyrosine-protein kinase erbB-2,True
+632227,Inhibition of human N-terminus peptide (DYKDDDD)-tagged EGFR expressed in baculovirus infected insect cells using [gamma-32P]ATP as substrate after 60 mins by scintillation counting,Receptor tyrosine-protein kinase erbB-4,False
+634137,"Inhibition of Erbb2 using poly(Glu,Tyr)4:1 as substrate and [gamma33P]ATP at 1 uM after 60 mins by scintillation counting",Receptor tyrosine-protein kinase erbB-2,True
+634138,"Inhibition of Erbb2 using poly(Glu,Tyr)4:1 as substrate and [gamma33P]ATP after 60 mins by scintillation counting",Receptor tyrosine-protein kinase erbB-2,True
+636385,Inhibition of human ErbB2 preincubated for 2 hrs prior addition of ATP by HTRF assay,Receptor tyrosine-protein kinase erbB-2,True
+637117,Inhibition of ErbB2 at 10 uM after 1 hr by competitive binding assay,Receptor tyrosine-protein kinase erbB-2,True
+637258,Inhibition of HER2,Receptor tyrosine-protein kinase erbB-2,True
