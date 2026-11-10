@@ -1,0 +1,6 @@
+{
+  "features": "Morgan FP (1024)",
+  "model": "Random forest",
+  "R2_mean": 0.5954861283712013,
+  "RMSE_mean": 0.7014278878742427
+}
