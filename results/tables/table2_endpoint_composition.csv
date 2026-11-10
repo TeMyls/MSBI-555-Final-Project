@@ -1,0 +1,5 @@
+Standard Type,measurements,compounds,median_pActivity,sd
+IC50,1385,1155,6.824,1.16
+Kd,34,27,6.128,0.899
+EC50,19,16,6.921,0.823
+Ki,2,2,6.546,2.861

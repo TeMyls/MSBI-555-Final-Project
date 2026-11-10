@@ -1,0 +1,9 @@
+quantity,value
+compounds with cross-assay repeats,184.0
+pooled within-compound SD (log units),0.6297
+compound-level SD (log units),1.1321
+median cross-assay range (log units),0.5656
+90th percentile cross-assay range,1.626
+fraction disagreeing by >1 log unit,0.3043
+ceiling R^2,0.6906
+ceiling RMSE (log units),0.6297

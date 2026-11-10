@@ -1,1 +1,7 @@
-
+target,check,value
+HER2,scaffold-split R2,0.5955
+HER2,random-split R2,0.6999
+HER2,optimism (random - scaffold),0.1044
+HER2,y-scrambled mean R2,-0.1264
+HER2,y-scrambled max R2,-0.046
+HER2,y-scramble verdict,PASS

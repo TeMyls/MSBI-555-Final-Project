@@ -1,0 +1,9 @@
+step,rows,compounds
+0. all downloaded rows,2250,1831
+1. has a depositor SMILES,2250,1831
+2. has a PubChem CID,2250,1831
+3. endpoint is IC50/Ki/Kd/EC50,1877,1523
+4. units are nM,1830,1495
+5. exact values only (relation '='),1449,1182
+6. no PubChem validity flag,1440,1173
+7. 0 < value <= 1 M,1440,1173
